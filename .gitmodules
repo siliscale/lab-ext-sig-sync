@@ -1,0 +1,3 @@
+[submodule "SVLib"]
+	path = SVLib
+	url = https://github.com/siliscale/SVLib.git
