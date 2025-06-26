@@ -97,7 +97,9 @@ lab-ext-sig-sync/
 
 ### 1. Environment Setup
 ```bash
-export REPO_TOP_DIR=/path/to/your/project
+git clone <this-repo>
+cd <this-repo>
+export REPO_TOP_DIR=$(pwd)
 ```
 
 ### 2. Initialize SVLib Submodule
